@@ -1,4 +1,4 @@
-# Previsão de Valores Imobiliários com Regressão Linear Múltipla
+# 🏠 Previsão de Valores Imobiliários com Regressão Linear Múltipla
 
 ![Static Badge](https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/scikit--learn-%23F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
@@ -8,13 +8,13 @@
 
 Este projeto utiliza técnicas de regressão linear múltipla para prever os preços de imóveis com base em diversas características. Os dados incluem informações como área, número de garagens, banheiros, lareiras, presença de acabamento em mármore e número de andares.
 
-## Métricas de Avaliação do Modelo:
+## 📊 Métricas de Avaliação do Modelo:
 
 * **Coeficiente de Determinação (R²)**: 0.67
 * **Erro Quadrático Médio (EQM)**: 5.02e+07
 * **Raiz do Erro Quadrático Médio (REQM)**: 7.08e+03
 
-## Descrição do Dataset
+## 📋 Descrição do Dataset
 O conjunto de dados contém informações sobree preços de imóveis e suas características associadas. As variáveis incluem:
 
 * `precos`: Preço dos imóveis em uma determinada unidade de moeda.
@@ -25,7 +25,7 @@ O conjunto de dados contém informações sobree preços de imóveis e suas cara
 * `marmore`: Indicador binário (0 ou 1) se o imóvel possui acabamento em mármore branco.
 * `andares`: Indicador binário (0 ou 1) se o imóvel possui mais de um andar.
 
-## Etapas do Projeto
+## 🛠️ Etapas do Projeto
 * **Conhecendo o Dataset**: Importação das bibliotecas necessárias e leitura do conjunto de dados.
 * **Análises Preliminares**: Exploração inicial dos dados, incluindo estatísticas descritivas e matriz de correlação para entender as relações entre as variáveis.
 * **Visualização dos Dados**: Utilização de gráficos de boxplot e histograma para entender a distribuição dos dados e identificar possíveis outliers. Também plotagem de gráficos de dispersão para observar as relações entre as variáveis.
