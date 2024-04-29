@@ -15,7 +15,7 @@ Este projeto utiliza técnicas de regressão linear múltipla para prever os pre
 * **Raiz do Erro Quadrático Médio (REQM)**: 7.08e+03
 
 ## 📋 Descrição do Dataset
-O conjunto de dados, [disponível no Kaggle](https://www.kaggle.com/datasets/greenwing1985/housepricing), contém informações sobree preços de imóveis e suas características associadas. As variáveis incluem:
+O conjunto de dados, [disponível no Kaggle](https://www.kaggle.com/datasets/greenwing1985/housepricing), contém informações sobre preços de imóveis e suas características associadas. As variáveis incluem:
 
 * `precos`: Preço dos imóveis em uma determinada unidade de moeda.
 * `area`: Área do imóvel em metros quadrados.
